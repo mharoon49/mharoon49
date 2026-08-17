@@ -18,8 +18,7 @@
 
 <br>
 
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fmharoon49%2Fmharoon49.json&color=ff3131&label=PROFILE%20VIEWS&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fmharoon49%2Fmharoon49.json&label=PROFILE+VIEWS&style=for-the-badge&color=ff3131&labelColor=0d1117" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/mharoon49?label=FOLLOWERS&style=for-the-badge&color=ff3131&labelColor=0d1117" alt="GitHub Followers"/>
 &nbsp;
