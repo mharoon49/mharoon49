@@ -18,8 +18,7 @@
 
 <br>
 
-<img src="https://hits.seeyoufarm.dev/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmharoon49&count_bg=%23FF3131&title_bg=%230D1117&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views"/>
-
+<img src="https://komarev.com/ghpvc/?username=mharoon49&color=ff3131&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/mharoon49?label=FOLLOWERS&style=for-the-badge&color=ff3131&labelColor=0d1117" alt="GitHub Followers"/>
 &nbsp;
