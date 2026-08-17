@@ -18,7 +18,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mharoon49&color=ff3131&labelColor=0d1117&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=mharoon49&color=ff3131&labelBackgroundColor=0d1117&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/mharoon49?label=FOLLOWERS&style=for-the-badge&color=ff3131&labelColor=0d1117" alt="GitHub Followers"/>
 &nbsp;
