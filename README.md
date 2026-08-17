@@ -6,9 +6,8 @@
 
 <!-- Responsive Dark / Light Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8b0000,100:ff3131&height=220&section=header&text=MUHAMMAD%20HAROON&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Code%20%E2%80%A2%20Learn%20%E2%80%A2%20Build&descAlignY=58&descSize=18&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffeded,100:ff3131&height=220&section=header&text=MUHAMMAD%20HAROON&fontSize=48&fontColor=8b0000&fontAlignY=38&desc=Code%20%E2%80%A2%20Learn%20%E2%80%A2%20Build&descAlignY=58&descSize=18&animation=fadeIn">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8b0000,100:ff3131&height=220&section=header&text=MUHAMMAD%20HAROON&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Code%20%E2%80%A2%20Learn%20%E2%80%A2%20Build&descAlignY=58&descSize=18&animation=fadeIn" alt="Muhammad Haroon GitHub Banner"/>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Muhammad Haroon" src="art/header-light.png">
 </picture>
 
 # Hey there, I'm Muhammad Haroon 👋
