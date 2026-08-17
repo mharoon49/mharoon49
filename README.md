@@ -120,12 +120,11 @@ I'm currently at the beginning of my CS journey, but I'm focused on developing s
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mharoon49&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF&cache_seconds=1800" alt="Muhammad Haroon GitHub Statistics" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=mharoon49&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF" alt="Muhammad Haroon GitHub Statistics" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharoon49&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Most Used Languages" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mharoon49&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF&langs_count=8" alt="Most Used Languages" />
 
 </div>
-
 <br>
 
 <div align="center">
