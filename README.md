@@ -10,7 +10,7 @@
    <img alt="Logo for Muhammad Haroon" src="art/header-light.png">
 </picture>
 
-# Hey there, I'm Muhammad Haroon 👋
+# Hey there, I'm Haroon 👋
 
 ### `CS Student` • `Developer in Progress` • `Problem Solver`
 
