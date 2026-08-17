@@ -25,8 +25,7 @@
 <img src="https://img.shields.io/github/stars/mharoon49?label=STARS&style=for-the-badge&color=ff3131&labelColor=0d1117" alt="GitHub Stars"/>
 
 <br><br>
-
-📍 **Islamabad, Pakistan**  
+ 
 💻 **Web Development + Computer Science**  
 🎓 **Currently completing Harvard's CS50**
 
