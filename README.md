@@ -14,7 +14,7 @@
 
 ### `CS Student` • `Developer in Progress` • `Problem Solver`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FF3131&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Learning+C+%7C;Building+with+HTML+%26+CSS;Currently+Completing+Harvard's+CS50;Exploring+Automation+%26+Web+Development;Turning+Knowledge+Into+Practical+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FF3131&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Learning+C;Building+with+HTML+%26+CSS;Currently+Completing+Harvard's+CS50;Exploring+Automation+%26+Web+Development;Turning+Knowledge+Into+Practical+Projects" alt="Typing SVG" />
 
 <br>
 
