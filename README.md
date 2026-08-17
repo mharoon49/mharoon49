@@ -71,9 +71,7 @@ I'm currently at the beginning of my CS journey, but I'm focused on developing s
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote_color=FF3131&author_color=FF3131" width="200" style="border-radius: 12px; border: 1px solid #30363d;" alt="Dev Quote"/>
-
-
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&accent_color=FF3131&quote_color=FF3131&author_color=FF3131&v=1" width="200" style="border-radius: 12px; border: 1px solid #30363d;" alt="Dev Quote"/>
 
 <br><br>
 
