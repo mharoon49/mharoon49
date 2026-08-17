@@ -71,7 +71,8 @@ I'm currently at the beginning of my CS journey, but I'm focused on developing s
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://github.com/mharoon49.png" width="220" height="220" style="border-radius:50%;" alt="Muhammad Haroon"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="200" style="border-radius: 12px; border: 1px solid #30363d;" alt="Dev Quote"/>
+
 
 <br><br>
 
