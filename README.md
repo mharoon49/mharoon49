@@ -66,7 +66,7 @@ I'm currently at the beginning of my CS journey, but I'm focused on developing s
 
 **📌 Current Focus**
 
-`C` • `Python` • `JavaScript` • `HTML` • `CSS` • `CS50`
+`C` • `HTML` • `CSS` • `CS50`
 
 </td>
 
@@ -84,29 +84,13 @@ I'm currently at the beginning of my CS journey, but I'm focused on developing s
 
 ---
 
-## 🧠 Core Skills
-
-<div align="center">
-
-| Category | Technologies |
-|:---:|:---:|
-| **Languages** | C • Python • JavaScript |
-| **Web** | HTML • CSS |
-| **Tools** | VS Code • GitHub |
-| **Learning** | Harvard CS50 |
-| **Interests** | Algorithms • Data Structures • Automation • Computer Systems |
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages & Web
 
-<img src="https://skillicons.dev/icons?i=c,python,js,html,css&theme=dark" alt="Programming Languages and Web Technologies"/>
+<img src="https://skillicons.dev/icons?i=c,html,css&theme=dark" alt="Programming Languages and Web Technologies"/>
 
 <br><br>
 
@@ -117,6 +101,22 @@ I'm currently at the beginning of my CS journey, but I'm focused on developing s
 </div>
 
 ---
+
+## 🧠 Core Skills
+
+<div align="center">
+
+| Category | Technologies |
+|:---:|:---:|
+| **Languages** | C |
+| **Web** | HTML • CSS |
+| **Tools** | VS Code • GitHub |
+| **Learning** | Harvard CS50 |
+| **Interests** | Algorithms • Data Structures • Automation • Computer Systems |
+
+</div>
+
+ ---
 
 ## 📊 GitHub Statistics
 
