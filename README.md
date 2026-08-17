@@ -44,7 +44,7 @@
 
 I'm a **Computer Science student** focused on building a strong foundation in **programming, algorithms, and software development**.
 
-I'm currently completing **Harvard's CS50** while developing my skills in **C, Python, JavaScript, HTML, and CSS** through hands-on learning and practical projects.
+I'm currently completing **Harvard's CS50** while developing my skills in **C, HTML, and CSS** through hands-on learning and practical projects.
 
 I'm particularly interested in:
 
