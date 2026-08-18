@@ -9,6 +9,7 @@
    <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
    <img alt="Logo for Muhammad Haroon" src="art/header-light.png">
 </picture>
+
 # Hey there, I'm Haroon 👋
 
 ### `CS Student` • `Developer in Progress` • `Problem Solver`
