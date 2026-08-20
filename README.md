@@ -14,7 +14,7 @@
 
 ### `Web Development` • `Automation`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FF3131&center=true&vCenter=true&width=750&lines=Computer+Science+Student;C+Programming;Building+with+HTML+%26+CSS;Currently+Completing+Harvard's+CS50;Exploring+Automation+%26+Web+Development;Turning+Knowledge+Into+Practical+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FF3131&center=true&vCenter=true&width=750&lines=Computer+Science+%7C+Web+Development;Learning+How+Software+Works;Building+with+Code%2C+Not+Just+Using+It;Exploring+Automation+%26+Systems;Turning+Ideas+Into+Working+Software" alt="Typing SVG" />
 
 <br>
 
