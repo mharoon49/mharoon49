@@ -26,7 +26,7 @@
 
 <br><br>
  
-💻 **Web Development + Computer Science**  
+💻 **Web Development & Computer Science**  
 🎓 **Currently completing Harvard's CS50**
 
 </div>
