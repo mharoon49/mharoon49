@@ -26,8 +26,8 @@
 
 <br><br>
  
-💻 **Web Development & Computer Science**  
-🎓 **Currently completing Harvard's CS50**
+ **Curious about what happens beneath the interface**  
+ **Understanding the why, then building the how **
 
 </div>
 
