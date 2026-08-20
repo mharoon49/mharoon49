@@ -104,7 +104,7 @@ My goal is simple:
 
 <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mharoon49&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF&langs_count=8" alt="Most Used Languages" />
 &nbsp;&nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=mharoon49&theme=dark&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+<img height="180" src="https://streak-stats.vercel.app/?user=mharoon49&theme=dark&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 
 </div>
 <br>
