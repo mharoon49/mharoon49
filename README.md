@@ -39,7 +39,7 @@
 <tr>
 <td width="65%" valign="top">
 
-### Hello! I'm Haroon 👋
+
 
 I'm a **Computer Science student** focused on building a strong foundation in **programming, algorithms, and software development**.
 
