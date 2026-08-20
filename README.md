@@ -102,7 +102,15 @@ My goal is simple:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=mharoon49&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF" alt="Muhammad Haroon GitHub Statistics" />
+<h2>🚀 Featured Projects</h2>
+
+<a href="https://github.com/mharoon49/cs50-projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mharoon49&repo=cs50-projects&theme=github_dark&hide_border=true&title_color=FF3131&icon_color=FF3131" height="120" alt="CS50 Projects" />
+</a>
+
+<a href="https://github.com/mharoon49/html-css-course">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mharoon49&repo=html-css-course&theme=github_dark&hide_border=true&title_color=FF3131&icon_color=FF3131" height="120" alt="HTML & CSS Course" />
+</a>
 &nbsp;&nbsp;
 <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mharoon49&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF&langs_count=8" alt="Most Used Languages" />
 
