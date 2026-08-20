@@ -109,12 +109,6 @@ My goal is simple:
 </div>
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mharoon49&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-
-</div>
-
 ---
 
 ## 📈 Contribution Activity
