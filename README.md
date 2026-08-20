@@ -58,8 +58,6 @@ My goal is simple:
 
 > **Learn deeply → Build consistently → Improve continuously.**
 
-I'm currently at the beginning of my CS journey, but I'm focused on developing strong fundamentals rather than simply learning syntax.
-
 <br>
 
 **📌 Current Focus**
