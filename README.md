@@ -98,21 +98,6 @@ My goal is simple:
 
 ---
 
-## 🧠 Core Skills
-
-<div align="center">
-
-| Category | Technologies |
-|:---:|:---:|
-| **Languages** | C |
-| **Web** | HTML • CSS |
-| **Tools** | VS Code • GitHub |
-| **Learning** | Harvard CS50 |
-| **Interests** | Algorithms • Data Structures • Automation • Computer Systems |
-
-</div>
-
- ---
 ## 📊 GitHub Statistics
 
 <div align="center">
