@@ -27,7 +27,7 @@
 <br><br>
  
  **Curious about what happens beneath the interface**  
- **Understanding the why, then building the how **
+ **Understanding the why, then building the how**
 
 </div>
 
