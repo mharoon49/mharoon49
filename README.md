@@ -111,40 +111,7 @@ I'm particularly interested in:
 
 </div>
 
-<!--
-=========================================================
-GitHub Action required to generate the contribution snake.
-
-Create:
-.github/workflows/snake.yml
-
-Use:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
+---
  📫 Connect With Me
 <div align="center">
 <a href="https://www.linkedin.com/in/muhammad-haroon-a79b51423">
