@@ -34,8 +34,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 <table>
 <tr>
