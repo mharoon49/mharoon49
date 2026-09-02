@@ -9,7 +9,7 @@
     <img alt="Logo for Muhammad Haroon" src="art/header-light.png" style="max-width: 100%; height: auto;">
   </picture>
 
-  # Hey there, I'm Haroon 👋
+  # Hi, I'm Haroon
 
   ### ` Web Development ` • ` Automation `
 
