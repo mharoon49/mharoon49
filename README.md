@@ -42,7 +42,7 @@
 <td width="65%" valign="top">
 
 
-I'm currently completing **Harvard's CS50**, building my foundation in programming and computer science while developing my skills in **C, HTML, and CSS** through hands-on learning and practical projects.
+Currently advancing through **Harvard's CS50**, strengthening my foundation in programming and computer science while developing my skills in **C, HTML, and CSS** through hands-on learning and practical projects.
 
 I'm particularly interested in:
 
