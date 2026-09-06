@@ -11,11 +11,11 @@
 
   # Hi, I'm Haroon
 
-  ### ` Web Development ` • ` Automation `
+  ### ` CS Student ` • ` Learning Programming Foundations & Web Development `
 
   <!-- Typing SVG dynamically bounded to full width on mobile, max 750px on desktop -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FF3131&center=true&vCenter=true&width=750&height=50&lines=Computer+Science+%7C+Web+Development;Learning+How+Software+Works;Bridging+concepts+into+clean+execution;Exploring+Automation+%26+Systems;Turning+Ideas+Into+Working+Software" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FF3131&center=true&vCenter=true&width=750&height=50&lines=Learning+How+Software+Works;Bridging+concepts+into+clean+execution;Exploring+Automation+%26+Systems;Turning+Ideas+Into+Working+Software" alt="Typing SVG" style="max-width: 100%; height: auto;" />
   </a>
 
   <br><br>
