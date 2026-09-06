@@ -81,7 +81,7 @@ My academic interests include:
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git&theme=dark" alt="Development Tools and Platforms"/>
+<img src="https://skillicons.dev/icons?i=github,vscode,git&theme=dark" alt="Development Tools and Platforms"/>
 
 </div>
 
