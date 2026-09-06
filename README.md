@@ -11,7 +11,7 @@
 
   # Hi, I'm Haroon
 
-  ### ` CS Student ` • ` Learning Programming Foundations & Web Development `
+  ### ` CS Student ` • ` Web Development `
 
   <!-- Typing SVG dynamically bounded to full width on mobile, max 750px on desktop -->
   <a href="https://git.io/typing-svg">
