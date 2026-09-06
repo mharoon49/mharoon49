@@ -47,7 +47,7 @@ Currently advancing through **Harvard's CS50**, strengthening my foundation in p
 My academic interests include:
 - 🧠 Programming logic & analytical thinking  
 - 📚 Algorithms & data structures  
-- 🌐 Web development fundamental
+- 🌐 Web development
 
 <br>
 
