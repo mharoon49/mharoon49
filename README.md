@@ -109,7 +109,7 @@ My academic interests include:
 ---
  📫 Connect With Me
 <div align="center">
-<a href="https://www.linkedin.com/in/muhammad-haroon-a79b51423">
+<a href="https://www.linkedin.com/in/mharoon49">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;&nbsp;
 <a href="mailto:maronstudios49@gmail.com">
