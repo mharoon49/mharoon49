@@ -4,7 +4,8 @@
 <div align="center">
 
   <!-- Responsive Dark / Light Banner -->
- ![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%21%5Bgithub%5D+Hi%2C+I%27m+Haroon&bg=00000000&color=FFFFFF&headerfont=Inter&support=false)
+ <img src="https://github.com/mharoon49/mharoon49/raw/refs/heads/main/assets/banner.svg" width="100%">
+
 
   ### ` CS Student ` • ` Web Development `
 
