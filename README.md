@@ -4,11 +4,7 @@
 <div align="center">
 
   <!-- Responsive Dark / Light Banner -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-    <img alt="Logo for Muhammad Haroon" src="art/header-light.png" style="max-width: 100%; height: auto;">
-  </picture>
-
+  ![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%21%5Bgithub%5D+Hi%2C+I%27m+Haroon&subheader=From+fundamentals+to+full+builds&bg=760404-130101&color=FFFFFF&headerfont=Inter&support=false)
   # Hi, I'm Haroon
 
   ### ` CS Student ` • ` Web Development `
