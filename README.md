@@ -5,7 +5,6 @@
 
   <!-- Responsive Dark / Light Banner -->
   ![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%21%5Bgithub%5D+Hi%2C+I%27m+Haroon&subheader=From+fundamentals+to+full+builds&bg=760404-130101&color=FFFFFF&headerfont=Inter&support=false)
-  # Hi, I'm Haroon
 
   ### ` CS Student ` • ` Web Development `
 
