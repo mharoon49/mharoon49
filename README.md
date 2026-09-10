@@ -6,27 +6,27 @@
   <!-- Responsive Dark / Light Banner -->
  <img src="https://github.com/mharoon49/mharoon49/raw/refs/heads/main/banner.svg" width="100%">
 
+<br><br>
 
   ### ` CS Student ` • ` Web Development `
 
   <!-- Typing SVG dynamically bounded to full width on mobile, max 750px on desktop -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FF3131&center=true&vCenter=true&width=750&height=50&lines=Learning+How+Software+Works;Bridging+concepts+into+clean+execution;Exploring+Automation+%26+Systems;Turning+Ideas+Into+Working+Software" alt="Typing SVG" style="width= 100%; height= auto;" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=ff3131&center=true&vCenter=true&width=750&height=50&lines=Learning+How+Software+Works;Bridging+Concepts+Into+Clean+Execution;Exploring+Automation+%26+Systems" alt="Typing SVG" width="100%" />
+</a>
 
-  <br><br>
+<br>
 
-  <!-- Badges wrapped in inline-blocks for seamless mobile wrapping -->
-  <p align="center">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fmharoon49%2Fmharoon49.json&label=PROFILE+VIEWS&style=for-the-badge&color=5F0202&labelColor=0d1117" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/mharoon49?label=FOLLOWERS&style=for-the-badge&color=5F0202&labelColor=0d1117" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/mharoon49?label=STARS&style=for-the-badge&color=5F0202&labelColor=0d1117" alt="GitHub Stars" />
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fmharoon49%2Fmharoon49.json&label=PROFILE+VIEWS&style=for-the-badge&color=ff3131&labelColor=0d1117" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mharoon49?label=FOLLOWERS&style=for-the-badge&color=ff3131&labelColor=0d1117" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mharoon49?label=STARS&style=for-the-badge&color=ff3131&labelColor=0d1117" alt="GitHub Stars" />
+</p>
 
-  <br>
+<br>
 
-  **Curious about what happens beneath the interface** <br>
-  **Understanding the why, then building the how**
+**Curious about what happens beneath the interface** <br>
+**Understanding the why, then building the how**
 
 </div>
 
