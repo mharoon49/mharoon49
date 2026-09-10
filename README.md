@@ -4,7 +4,7 @@
 <div align="center">
 
   <!-- Responsive Dark / Light Banner -->
- <img src="https://github.com/mharoon49/mharoon49/raw/refs/heads/main/assets/banner.svg" width="100%">
+ <img src="https://github.com/mharoon49/mharoon49/raw/refs/heads/main/banner.svg" width="100%">
 
 
   ### ` CS Student ` • ` Web Development `
