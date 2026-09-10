@@ -12,7 +12,7 @@
 
   <!-- Typing SVG dynamically bounded to full width on mobile, max 750px on desktop -->
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&height=60&duration=3000&pause=900&color=ff3131&center=true&vCenter=true&width=630&lines=Learning+How+Software+Works;Bridging+Concepts+Into+Clean+Execution;Exploring+Automation+%26+Systems" alt="Typing SVG" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&height=60&duration=3000&pause=900&color=ff3131&center=true&vCenter=true&width=650&lines=Learning+How+Software+Works;Bridging+Concepts+Into+Clean+Execution;Exploring+Automation+%26+Systems" alt="Typing SVG" width="100%" />
 </a>
 
 <br>
