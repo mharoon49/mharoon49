@@ -18,9 +18,9 @@
 
   <!-- Badges wrapped in inline-blocks for seamless mobile wrapping -->
   <p align="center">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fmharoon49%2Fmharoon49.json&label=PROFILE+VIEWS&style=for-the-badge&color=5F0202&labelColor=0d1117" alt="Profile Views" width="100%" />
-    <img src="https://img.shields.io/github/followers/mharoon49?label=FOLLOWERS&style=for-the-badge&color=5F0202&labelColor=0d1117" alt="GitHub Followers" width="100%" />
-    <img src="https://img.shields.io/github/stars/mharoon49?label=STARS&style=for-the-badge&color=5F0202&labelColor=0d1117" alt="GitHub Stars" width="100%" />
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fmharoon49%2Fmharoon49.json&label=PROFILE+VIEWS&style=for-the-badge&color=5F0202&labelColor=0d1117" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/mharoon49?label=FOLLOWERS&style=for-the-badge&color=5F0202&labelColor=0d1117" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/mharoon49?label=STARS&style=for-the-badge&color=5F0202&labelColor=0d1117" alt="GitHub Stars" />
   </p>
 
   <br>
