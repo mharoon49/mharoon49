@@ -72,7 +72,7 @@ My academic interests include:
 
 <img src="https://skillicons.dev/icons?i=c,html,css&theme=dark" alt="Programming Languages and Web Technologies"/>
 
-<br><br>
+<br>
 
 ### Tools & Platforms
 
