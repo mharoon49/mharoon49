@@ -8,7 +8,11 @@
 
 <br><br>
 
-  ### ` CS Student ` • ` Web Development `
+  <p align="center" font="JetBrains+Mono">
+  <strong>CS Student &nbsp;•&nbsp; Web Development</strong>
+</p>
+
+<br>
 
   <!-- Typing SVG dynamically bounded to full width on mobile, max 750px on desktop -->
   <a href="https://git.io/typing-svg">
@@ -23,7 +27,7 @@
   <img src="https://img.shields.io/github/stars/mharoon49?label=STARS&style=flat&color=ff3131&labelColor=0d1117" alt="GitHub Stars" height="66" />
 </p>
 
-<br>
+<br><br>
 
 **Curious about what happens beneath the interface** <br>
 **Understanding the why, then building the how**
