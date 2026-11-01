@@ -27,10 +27,6 @@
   <img src="https://img.shields.io/github/stars/mharoon49?label=STARS&style=flat&color=ff3131&labelColor=0d1117" alt="GitHub Stars" height="66" />
 </p>
 
-<br><br>
-
-**Curious about what happens beneath the interface** <br>
-**Understanding the why, then building the how**
 
 </div>
 
