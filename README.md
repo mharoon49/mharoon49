@@ -38,7 +38,7 @@
 <td width="65%" valign="top">
 
 
-Currently advancing through **Harvard's CS50**, strengthening my foundation in programming and computer science while developing my skills in **C, HTML, and CSS** through hands-on learning and practical projects.
+Focused on core computer science and problem-solving through **Harvard’s CS50**. Currently working with **C, HTML, and CSS** to turn programming concepts into practical, working projects.
 
 My academic interests include:
 - 🌐 Web development 
